@@ -1,8 +1,3 @@
-Ah, got it! You want a **description for your Eduport repository README** that reflects your project accurately.
-
-Here’s a professional and concise README **description** for your Eduport website (educational platform with courses):
-
----
 
 ## 📚 Eduport – Online Learning Platform
 
